@@ -1,0 +1,34 @@
+[
+  {
+    "id": "TXN004",
+    "amount": -50.0,
+    "currency": "EUR",
+    "country": "DE",
+    "merchant": "Refund",
+    "status": "failed",
+    "date": "2026-10-01",
+    "is_suspicious": false,
+    "is_high_value": false,
+    "is_valid": false,
+    "errors": [
+      "Negative or zero amount"
+    ],
+    "processed_at": "2026-10-14T16:42:42.761811"
+  },
+  {
+    "id": "TXN006",
+    "amount": 0,
+    "currency": "EUR",
+    "country": "DE",
+    "merchant": "Amazon",
+    "status": "completed",
+    "date": "2026-10-01",
+    "is_suspicious": false,
+    "is_high_value": false,
+    "is_valid": false,
+    "errors": [
+      "Invalid amount: abc"
+    ],
+    "processed_at": "2026-10-14T16:42:42.762160"
+  }
+]

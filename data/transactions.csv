@@ -1,0 +1,11 @@
+id,amount,currency,country,merchant,status,date
+TXN001,250.00,EUR,DE,Amazon,completed,2026-10-01
+TXN002,8500.00,EUR,XX,Unknown,pending,2026-10-01
+TXN003,120.50,EUR,FR,Carrefour,completed,2026-10-01
+TXN004,-50.00,EUR,DE,Refund,failed,2026-10-01
+TXN005,3200.00,EUR,GB,Apple,completed,2026-10-01
+TXN006,abc,EUR,DE,Amazon,completed,2026-10-01
+TXN007,750.00,EUR,NL,Booking,completed,2026-10-02
+TXN008,12000.00,EUR,XX,Unknown,pending,2026-10-02
+TXN009,89.99,EUR,DE,Spotify,completed,2026-10-02
+TXN010,450.00,EUR,FR,LVMH,completed,2026-10-02
